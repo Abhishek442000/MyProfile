@@ -18,7 +18,7 @@
 [Google tokyo ghoul](https://www.google.com/search?q=tokyo+ghoul&tbm=isch&ved=2ahUKEwj2uZj1o47uAhVESXwKHY5eCfoQ2-cCegQIABAA&oq=tok&gs_lcp=CgNpbWcQARgAMgcIABCxAxBDMgcIABCxAxBDMgQIABBDMgQIABBDMgcIABCxAxBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgUIABCxAzoICAAQsQMQgwE6AggAUJWwB1jdtgdgi8EHaABwAHgAgAFdiAGHApIBATOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=1FT5X_b_GMSS8QOOvaXQDw&bih=657&biw=1366&rlz=1C1GCEU_enIN892IN892#imgrc=8FGrcB4GLnBqVM)
 
 
-``` 
+``` c++
 #include <iostream>
 using namespace std;
 
@@ -38,3 +38,12 @@ int main() {
 	cout << count << endl;
 }
 ```
+
+
+s.no|name|email
+----|----|----
+1|abhishek|abhishek1715@gmail.com
+2|viswa|t7@gmail.com
+
+:sweat_smile:
+:confused:
